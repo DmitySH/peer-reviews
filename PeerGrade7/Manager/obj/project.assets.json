@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MenuControl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MenuControl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MenuControl.dll": {}
+        }
+      },
+      "TaskManagerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MenuControl": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskManagerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManagerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuControl/1.0.0": {
+      "type": "project",
+      "path": "../MyMenuControl/MenuControl.csproj",
+      "msbuildProject": "../MyMenuControl/MenuControl.csproj"
+    },
+    "TaskManagerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TaskManagerLibrary/TaskManagerLibrary.csproj",
+      "msbuildProject": "../TaskManagerLibrary/TaskManagerLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MenuControl >= 1.0.0",
+      "TaskManagerLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dasha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dasha\\Desktop\\PeerGrade7\\Manager\\Manager.csproj",
+      "projectName": "Manager",
+      "projectPath": "C:\\Users\\dasha\\Desktop\\PeerGrade7\\Manager\\Manager.csproj",
+      "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dasha\\Desktop\\PeerGrade7\\Manager\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\dasha\\Desktop\\PeerGrade7\\MyMenuControl\\MenuControl.csproj": {
+              "projectPath": "C:\\Users\\dasha\\Desktop\\PeerGrade7\\MyMenuControl\\MenuControl.csproj"
+            },
+            "C:\\Users\\dasha\\Desktop\\PeerGrade7\\TaskManagerLibrary\\TaskManagerLibrary.csproj": {
+              "projectPath": "C:\\Users\\dasha\\Desktop\\PeerGrade7\\TaskManagerLibrary\\TaskManagerLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

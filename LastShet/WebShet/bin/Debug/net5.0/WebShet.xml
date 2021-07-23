@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebShet</name>
+    </assembly>
+    <members>
+        <member name="M:WebShet.Controllers.MessageController.GetMessagesByUsers(System.String,System.String)">
+            <summary>
+            Gets messages using ids.
+            </summary>
+            <param name="sender"> Sender of message. </param>
+            <param name="receiver"> Receiver of message. </param>
+            <returns> List of messages. </returns>
+        </member>
+        <member name="M:WebShet.Controllers.MessageController.GetMessagesByReceiver(System.String)">
+            <summary>
+            Gets messages of receiver. 
+            </summary>
+            <param name="receiver"> Email of receiver. </param>
+            <returns> List of messages. </returns>
+        </member>
+        <member name="M:WebShet.Controllers.MessageController.GetMessagesBySender(System.String)">
+            <summary>
+            Gets messages of sender. 
+            </summary>
+            <param name="sender"> Email of sender. </param>
+            <returns> List of messages. </returns>
+        </member>
+        <member name="M:WebShet.Controllers.MessageController.SendMessage(System.String,System.String,System.String,System.String)">
+            <summary>
+            Sends a message. 
+            </summary>
+            <param name="sender"> Sender of message. </param>
+            <param name="receiver"> Receiver of message. </param>
+            <param name="topic"> Topic of message. </param>
+            <param name="content"> The content of message. </param>
+            <returns> New message. </returns>
+        </member>
+        <member name="M:WebShet.Controllers.UserController.CreateUserList(System.Int32,System.Int32)">
+            <summary>
+            Creates random users.
+            </summary>
+            <param name="numberUsers"> Number of users. </param>
+            <param name="numberMessages"> NUmber of messages. </param>
+            <returns> List of users. </returns>
+        </member>
+        <member name="M:WebShet.Controllers.UserController.GetUserById(System.String)">
+            <summary>
+            Finds user with email.
+            </summary>
+            <param name="id"> Email to find. </param>
+            <returns> User. </returns>
+        </member>
+        <member name="M:WebShet.Controllers.UserController.GetUsers(System.Int32,System.Int32)">
+            <summary>
+            Gets users with limit and offset.
+            </summary>
+            <param name="limit"> Limit. </param>
+            <param name="offset"> Offset. </param>
+            <returns> User list. </returns>
+        </member>
+        <member name="M:WebShet.Controllers.UserController.CreateUser(System.String,System.String)">
+            <summary>
+            Creates user.
+            </summary>
+            <param name="email"> User's email. </param>
+            <param name="name"> User's name. </param>
+            <returns></returns>
+        </member>
+        <member name="M:WebShet.Models.User.Generator(System.Int32)">
+            <summary>
+            Generates random string. 
+            </summary>
+            <param name="length"> Length of string. </param>
+            <returns> Random string. </returns>
+        </member>
+        <member name="P:WebShet.Models.User.MessagesInfo">
+            <summary>
+            Info about messages of the user.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\bin\Debug\netcoreapp3.1\PeerGrade5.exe
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\bin\Debug\netcoreapp3.1\PeerGrade5.deps.json
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\bin\Debug\netcoreapp3.1\PeerGrade5.runtimeconfig.json
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\bin\Debug\netcoreapp3.1\PeerGrade5.runtimeconfig.dev.json
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\bin\Debug\netcoreapp3.1\PeerGrade5.dll
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\bin\Debug\netcoreapp3.1\PeerGrade5.pdb
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.csprojAssemblyReference.cache
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.CanvasForm.resources
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.Form1.resources
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.csproj.GenerateResource.cache
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.AssemblyInfoInputs.cache
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.AssemblyInfo.cs
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.csproj.CoreCompileInputs.cache
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.dll
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.pdb
+C:\Users\dasha\source\repos\BSE202_Shagarov_Dmitriy\PeerGrades\PeerGrade5\PeerGrade5\obj\Debug\netcoreapp3.1\PeerGrade5.genruntimeconfig.cache

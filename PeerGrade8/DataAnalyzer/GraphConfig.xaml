@@ -1,0 +1,16 @@
+﻿<Window x:Class="DataAnalyzer.GraphConfig"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataAnalyzer"
+        mc:Ignorable="d"
+        Title="GraphConfig" Height="275" Width="637">
+    <Grid>
+        <ListBox Name="XBox" Margin="318,28,0,0">
+        </ListBox>
+        <ListBox Name="YBox" Margin="0,28,319,0">
+        </ListBox>
+        <Button Name="PlotButton" Content="Plot it" HorizontalAlignment="Center" VerticalAlignment="Top" Height="28" Width="58" Click="PlotButton_OnClick"/>
+    </Grid>
+</Window>

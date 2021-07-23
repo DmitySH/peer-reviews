@@ -1,0 +1,3 @@
+StorageInfo
+Size: 4
+Cost: 20

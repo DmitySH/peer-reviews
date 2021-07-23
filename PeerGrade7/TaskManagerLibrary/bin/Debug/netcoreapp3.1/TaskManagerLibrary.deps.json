@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TaskManagerLibrary/1.0.0": {
+        "dependencies": {
+          "MenuControl": "1.0.0"
+        },
+        "runtime": {
+          "TaskManagerLibrary.dll": {}
+        }
+      },
+      "MenuControl/1.0.0": {
+        "runtime": {
+          "MenuControl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManagerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MenuControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

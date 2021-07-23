@@ -1,0 +1,9 @@
+1*-Weight of box in kg. 2*-Price of box.
+1*: 2*:
+12 3
+32 3
+25 65
+65 12
+5 7
+3 2
+3 5

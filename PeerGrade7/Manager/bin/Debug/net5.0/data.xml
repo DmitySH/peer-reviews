@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Project>
+    <Challenges />
+    <Name>sdf</Name>
+  </Project>
+</ArrayOfProject>

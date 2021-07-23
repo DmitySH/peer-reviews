@@ -1,0 +1,15 @@
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\bin\Debug\net5.0\TaskManagerLibrary.deps.json
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\bin\Debug\net5.0\TaskManagerLibrary.dll
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\bin\Debug\net5.0\ref\TaskManagerLibrary.dll
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\bin\Debug\net5.0\TaskManagerLibrary.pdb
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\obj\Debug\net5.0\TaskManagerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\obj\Debug\net5.0\TaskManagerLibrary.AssemblyInfoInputs.cache
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\obj\Debug\net5.0\TaskManagerLibrary.AssemblyInfo.cs
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\obj\Debug\net5.0\TaskManagerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\obj\Debug\net5.0\TaskManagerLibrary.dll
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\obj\Debug\net5.0\ref\TaskManagerLibrary.dll
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\obj\Debug\net5.0\TaskManagerLibrary.pdb
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\obj\Debug\net5.0\TaskManagerLibrary.csprojAssemblyReference.cache
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\bin\Debug\net5.0\MenuControl.dll
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\bin\Debug\net5.0\MenuControl.pdb
+C:\Users\mir_t\source\repos\PeerGrade7\TaskManagerLibrary\obj\Debug\net5.0\TaskManagerLibrary.csproj.CopyComplete
